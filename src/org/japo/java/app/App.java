@@ -23,7 +23,6 @@ import org.japo.java.libraries.UtilesPrimitivos;
  */
 public final class App {
 
-//       RANDOM
     public static int n1 = 10;
     public static int n2 = 50;
     public static int op = 0;
